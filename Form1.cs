@@ -3,7 +3,16 @@ using System.Drawing.Text;
 using System.Xml.Linq;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
+/*Radhiya Isaacs
+08/2025
+Usage Restrictions:
 
+This code may not be copied, modified, or submitted by others as part of their own coursework or assignments.
+
+Unauthorized use or distribution for academic submission or commercial purposes is strictly prohibited.
+
+You may view and learn from this repository for personal educational purposes only.
+**/
 
 namespace HorseRace
 {
@@ -95,3 +104,4 @@ namespace HorseRace
     }
 
 }
+
